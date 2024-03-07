@@ -1,9 +1,10 @@
-![image](https://github.com/gamingthings/documentacaobr/assets/162502847/6cabb898-d84b-4c5b-9adf-b80c089b3840)![image](https://github.com/gamingthings/documentacaobr/assets/162502847/cefcb778-c3d9-4469-b752-57864ec591f5)###  AVISO
+![image](https://github.com/gamingthings/documentacaobr/assets/162502847/6cabb898-d84b-4c5b-9adf-b80c089b3840)![image](https://github.com/gamingthings/documentacaobr/assets/162502847/cefcb778-c3d9-4469-b752-57864ec591f5) 
+###  AVISO
 Eu não usaria este docs se você pretende seguir a area de t.i ou correlacionados , pois o inglês e este assunto é nescessario/conhecimento basico ou essencial para o mercado de trabalho. CASO MUDE DE IDEIA use o docs da pagar.me https://docs.pagar.me/
 `1-   passo você ira entrar no github do bento quirino na aba aos , você vai precisar do insomnia e do arquivo json encontrado no repo `https://github.com/Bento-Quirino/AOS/blob/main/insomnia-simulado.json
-`2- você vai abrir o insomnia e vai clicar nas seguintes instruções : ![image](https://github.com/gamingthings/documentacaobr/assets/162502847/6745cbe7-46a0-494f-8b36-b5375ec951d3)`
+`2- você vai abrir o insomnia e vai clicar nas seguintes instruções : ![image](https://github.com/gamingthings/documentacaobr/assets/162502847/6745cbe7-46a0-494f-8b36-b5375ec951d3)
 
-`create/criar - import/importar - choose a file/escolha um arquivo ![image](https://github.com/gamingthings/documentacaobr/assets/162502847/178f12ce-8b65-4435-a70a-c0b93cc26049)`
+`create/criar - import/importar - choose a file/escolha um arquivo ![image](https://github.com/gamingthings/documentacaobr/assets/162502847/178f12ce-8b65-4435-a70a-c0b93cc26049)
 
 3- honestamente não sei se esta parte está 100% correta, mas deu certo pra mim : troque o api_key por base url e depois disso vocês vão notar que não possuem autorização , no 4 ensinarei como .
 ![image](https://github.com/gamingthings/documentacaobr/assets/162502847/7a002613-4a0a-4325-96dc-3471d68d3d2c)
@@ -67,6 +68,6 @@ seu endpoint que pode ser /costumers ,/orders etc
 
 
 
-
+## NÃO MANDEM CEBOLA PRA MINHA CASA!
 
 
